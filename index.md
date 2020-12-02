@@ -30,6 +30,7 @@ This sort of function can return results from multiple select statements in a si
 
 ILTVF Syntax.PNG
 
+<img src="../img/ILTVF%20Syntax.png" />
 
 Figures 1 & 2 – Example syntax for Inline Table-Valued Function (left) and Multi-Statement Table Valued Function *(Wise Owl, https://www.wiseowl.co.uk/blog/s347/table-valued-functions.htm, 2020)*
 
