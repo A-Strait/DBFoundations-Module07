@@ -28,9 +28,9 @@ A simple table-valued function that returns just a single set of rows. In this c
 ### Multi-Statement Table Valued
 This sort of function can return results from multiple select statements in a single function, and as such is more involved when developing. The user defines a table variable in the Return block of the Create Function statement and by doing so, explicitly specifies the structure of the return table.
 
-![iltvf](../assets/iltvf.PNG)
+![iltvf]({{ https://a-strait.github.io/DBFoundations-Module07/ }}/assets/iltvf.PNG)
 
-![mstvf](../assets/mstvf.PNG)
+![mstvf]({{ https://a-strait.github.io/DBFoundations-Module07/ }}/assets/mstvf.PNG)
 
 Figures 1 & 2 – Example syntax for Inline Table-Valued Function (left) and Multi-Statement Table Valued Function *(Wise Owl, https://www.wiseowl.co.uk/blog/s347/table-valued-functions.htm, 2020)*
 
