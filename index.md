@@ -28,7 +28,7 @@ A simple table-valued function that returns just a single set of rows. In this c
 ### Multi-Statement Table Valued
 This sort of function can return results from multiple select statements in a single function, and as such is more involved when developing. The user defines a table variable in the Return block of the Create Function statement and by doing so, explicitly specifies the structure of the return table.
 
-![itvf](../assets/itvf.PNG)
+![iltvf](../assets/iltvf.PNG)
 
 ![mstvf](../assets/mstvf.PNG)
 
