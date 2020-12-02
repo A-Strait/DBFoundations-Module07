@@ -30,6 +30,7 @@ This sort of function can return results from multiple select statements in a si
 
 ![itvf](https://github.com/A-Strait/DBFoundations-Module07/blob/gh-pages/ILTVF%20Syntax.PNG "itvf")
 ![mstvf](https://github.com/A-Strait/DBFoundations-Module07/blob/gh-pages/MSTVF%20Syntax.PNG "mstvf")
+
 Figures 1 & 2 – Example syntax for Inline Table-Valued Function (left) and Multi-Statement Table Valued Function *(Wise Owl, https://www.wiseowl.co.uk/blog/s347/table-valued-functions.htm, 2020)*
 
 ## Conclusion
