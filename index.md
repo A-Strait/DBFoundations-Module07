@@ -1,5 +1,6 @@
-*Alex Strait*
-*30 November 2020*
+Alex Strait
+
+30 November 2020
 
 IT FDN 130 A - Foundations of Database Management
 
